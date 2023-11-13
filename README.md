@@ -14,7 +14,7 @@
 [![forks - badge-generator](https://img.shields.io/github/forks/harshitajain06/PortfolioPage?style=social)](https://github.comharshitajain06/PortfolioPage)
 
 </div>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a computer science engineer with experience working in both edtech and product-based companies.👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space</h3>
 <img align="center" width="400" src="https://github.com/harshitajain06/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshitajain06&label=Profile%20views&color=0e75b6&style=flat" alt="harshitajain06" /> </p>
